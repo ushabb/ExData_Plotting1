@@ -1,6 +1,6 @@
 ## Introduction
 
-Following are details for this submission of the Plotting Assignment 1 for Exploratory Data Analysis
+Following are the details for this submission of the Plotting Assignment 1 for Exploratory Data Analysis
 
 ## Files
 * <b>.R Files</b>: 
