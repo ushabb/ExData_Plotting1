@@ -12,8 +12,8 @@ falls within the date criteria of 2007-02-01 and 2007-02-02) as well as to
 tidy up the data (explicitly recognizing separators and missing values)</li>
 <li><b>plot1.R</b>: Plots a histogram of Global_active_power column </li>
 <li><b>plot2.R</b>: Plots a line plot of Global_active_power(y-axis) vs week days(x-axis) </li>
-<li><b>plot3.R</b>: Plots a multivariate line plot of Sub_metering_"n" columns(y-axis) vs week days(x-axis) (in kilowatt) </li>
-<li><b>plot4.R</b>: Plots Multiple Base Plots (in volt) </li>
+<li><b>plot3.R</b>: Plots a multivariate line plot of Sub_metering_"n" columns(y-axis) vs week days(x-axis) </li>
+<li><b>plot4.R</b>: Plots Multiple Base Plots </li>
 </ol>
 
 * <b>.png Files</b>: Measurements of electric power consumption in
